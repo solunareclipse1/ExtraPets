@@ -1,0 +1,2 @@
+Adds some more pets to the game.
+Thanks Kazzymodus for helping me with errors.
